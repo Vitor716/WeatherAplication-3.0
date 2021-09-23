@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WeatherAplication</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnPesquisar">Pesquisar</string>
+    <string name="btnListar">Listar</string>
+    <string name="name">Pesquise sua cidade:</string>
+    <string name="todo">TODO ok</string>
+    <string name="btnGeo">Geolocalização</string>
+    <string name="btnBuscar">Pesquisar sua localização</string>
+    <string name="empty"></string>
+    <string name="clique">Clique aqui para saber a temperatura</string>
+    <string name="todos">TODO ok</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="press_me">Press me</string>
+    <string name="textview">TextView</string>
+    <string name="temp">Temp</string>
+    <string name="txt">TextView</string>
+
+    <string name="nao">O sensor de temperatura não está funcionando</string>
+    <string name="tente">Tente novamente</string>
+
+    <string name="mais">Mais</string>
+
+    <string name="nameAttractions">Nome da atração:</string>
+    <string name="cityAttractions">Cidade da atração:</string>
+    <string name="descAttractions">Descrição da atração:</string>
+    <string name="valueAttractions">Valor da atração:</string>
+    <string name="addressAttractions">Endereço da atração:</string>
+
+    <string name="localTemperature">Temperatura do local:</string>
+    <string name="dripIndicated">Roupa indicada:</string>
+    <string name="paris">Paris</string>
+    <string name="torre_de_ferro_gigante">Torre de ferro gigante</string>
+    <string name="_16_30">€ 16,30</string>
+    <string name="champs_de_mars_no_n_5_da_avenida_anatole_de_france">Champs de Mars n.°5 </string>
+    <string name="torre_eiffel">Torre eiffel</string>
+    <string name="_21">21°</string>
+    <string name="roupa_de_frio">Roupa de frio</string>
+
+
+</resources>
